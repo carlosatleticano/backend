@@ -1,0 +1,5 @@
+user_conn = 'postgres'
+senha_conn = 'postgres'
+porta_conn = '5433'
+host_conn = '10.0.18.38'
+banco_conn = 'bts_controle_sistemas'
